@@ -20,7 +20,7 @@
 ```typescript
 const upanshu = {
   title: "Problem Solver",
-  stack: ["Python", "Java", "C", "C++", "Dart", "Flutter", "SQL", "HTML", "CSS", "JavaScript"],
+  stack: ["Python", "Java", "C", "C++", "Dart", "Flutter", "SQL", "HTML", "CSS","Ai",JavaScript"],
   launchedProjects: ["Amazon Clone", "Stone Paper Scissors"],
   focus: ["DSA", "OOP", "Intro to AI"],
   status: "Building projects & sharpening problem-solving skills",
